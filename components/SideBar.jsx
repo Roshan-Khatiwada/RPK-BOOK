@@ -23,7 +23,7 @@ function SideBar() {
   
 console.log(pathname)
   return (
-    <div className='flex flex-col items-start justify-center'>
+    <div className='flex flex-col items-start justify-center overflow-scroll'>
         <h1 className='mb-6 mt-2 bg-gray-500 font-bold text-white mx-5 px-7'>RPK BOOK</h1>
         <Link href="/" className={`w-[100%] px-5`}>
       <div className={`flex items-center p-1 my-2 space-x-3  w-[100%] ${active && " bg-[#e2ca69]"}`}>
