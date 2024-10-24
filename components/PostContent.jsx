@@ -102,7 +102,7 @@ function PostContent() {
         />
        <PostBox  
        profile="/assets/padam.jpg"
-       text={["Kakamega County Government","1 day ago"]} 
+       text={["Padam Dhungel","1 day ago"]} 
        title="Happy Birthday to My Precious Girl!"
         p={["Happy Birthday, my sweet daughter! 🎉🎂 Watching you grow into the incredible person you are has been the greatest joy of my life. You are my sunshine, and I’m so proud of everything you do. Keep shining bright, my love! 🌟💖"
         ,
