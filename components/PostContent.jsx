@@ -19,8 +19,8 @@ function PostContent() {
      <PostBox  
        profile="/assets/suman.jpg"
        text={["Suman Shrestha","26 min ago"]} 
-       title="Happy Birthday to My Love!"
-        p={["Happy Birthday to the most beautiful girl in the world! 🎉🎂 Your smile lights up my life, and I’m grateful for every moment we share. Here’s to many more adventures together! Love you to the moon and back! 🌙💕 #BirthdayGirl"
+       title="Happy Birthday !"
+        p={["Happy Birthday to the beautiful girl🎉🎂 Your smile lights up my life, and I’m grateful for every moment we share. Here’s to many more adventures together! Once again happy birthdaygit add .! 🌙💕 #BirthdayGirl"
         ,
         " Once again Happy birthday!"
         ]}
